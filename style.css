@@ -1,0 +1,34 @@
+body {
+
+min-height: 100vh;
+display: grid;
+grid-template-rows: auto 1fr auto;
+
+background-image: url("./628548.png");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+header{
+text-align: center;
+
+color: white;
+} 
+ 
+
+main
+{
+
+    color: white;
+}
+footer
+{
+
+color: white;
+
+}
+
+nav {
+    margin-top: 20px;
+}
+
